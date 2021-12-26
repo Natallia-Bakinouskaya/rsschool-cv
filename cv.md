@@ -2,6 +2,8 @@
 ---
 # Natallia Bakinouskaya
 
+![Me](/IMG_0566.png "")
+
 ### Contacts
 
 - Location: Minsk, Belarus

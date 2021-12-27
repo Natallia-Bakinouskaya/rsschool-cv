@@ -45,7 +45,7 @@ module.exports =  WriteData
 Minsk State Linguistic University
 
 
-### Skills
+### Other Skills
 
-English - advanced
-Gernan - advanced
+- English - advanced
+- Gernan - advanced
